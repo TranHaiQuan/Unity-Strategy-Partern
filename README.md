@@ -1,2 +1,2 @@
 # Unity-Strategy-Partern
-Unity Strategy Partern
+Demo use Strategy Pattern
